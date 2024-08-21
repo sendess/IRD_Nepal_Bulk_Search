@@ -23,11 +23,12 @@ These are the instructions on how you can get started on using the program.
 Install all the requirements of the program from file 'req.txt'. Also better to create a virtual environment.
 ```bash
 python -m venv venv
-
+```
+```bash
 .\venv\Scripts\activate
 ```
 For installing requirements:
-```py
+```bash
 pip install -r req.txt
 ```
    
