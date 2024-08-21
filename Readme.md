@@ -2,15 +2,6 @@
 
 This is a python program made for the sole purpose of searching numerous pan numebers in the IRD database.
 
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
 

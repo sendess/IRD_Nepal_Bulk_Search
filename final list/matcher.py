@@ -47,9 +47,3 @@ end = time.time()
 
 elapsed = end-start
 print(f"elapsed time = {elapsed}")
-# # Example usage
-# text1 = "White Hat Engineering And Construction Pvt Ltd"
-# text2 = "White Hat Engineering And Construction"
-
-# accuracy_percentage = calculate_text_accuracy(text1, text2)
-# print(f"The texts are {accuracy_percentage:.2f}% accurate to each other.")
