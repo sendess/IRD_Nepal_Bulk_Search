@@ -9,8 +9,6 @@ This is a python program made for the sole purpose of searching numerous pan num
 
 This program is entirely built out of python.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -34,8 +32,6 @@ pip install -r req.txt
 ```
    
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Usage
 There are two parts to the program.
@@ -54,8 +50,6 @@ second is performed by code ".\final list\matcher.py"
 6. again from VS code, open that csv file and copy its contents into the similar file named "compare_list.txt"
 7. run the code ".\final list\matcher.py" and obtain it's result in ".\final result\match_result.csv"
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -72,12 +66,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch
 5. Open a Pull Request
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: images/screenshot.png
 [Python-logo]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
